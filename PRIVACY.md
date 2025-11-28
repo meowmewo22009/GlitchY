@@ -1,1 +1,1 @@
-
+Bot can access: viewing users messeges , view all channels of server , manage users roles , manage users messeges , users list of server , manage server , manage channels , manage categories , manage users permissions , manage roles permissions , can see online statuses of users (what they are playing , listening , watching) , nickname changes.
