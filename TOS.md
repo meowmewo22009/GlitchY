@@ -4,3 +4,4 @@ You may use GlitchY#6285 bot for : moderating server , managing server , managin
 Please NOTE 
 BOT MAY NOT BE USED FOR HACKING SERVERS , ABUSING USERS PERMISSIONS , ANY ABUSE WAYS.
 
+as is, with no guarantee of uptime, creators are not responsible for any damage caused by its use.
